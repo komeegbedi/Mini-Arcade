@@ -1,5 +1,4 @@
 body{
-    /* background:	#f8fafd; */
     font-family: 'Roboto', sans-serif;
     color: #000;
 
@@ -160,14 +159,14 @@ section.games .card .card-body a.btn-grad:hover {
 
 .footer .copyright p , .footer a{
     margin-top: 10px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 300;
     color: #fff;
-    text-transform: capitalize;
+    text-transform: uppercase;
+    letter-spacing: 1.1px;
 }
 
 @media only screen and (max-width: 768px){
-
 
     div.game-cards div.col-lg-4{
         margin-bottom: 60px;
